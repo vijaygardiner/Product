@@ -3,3 +3,5 @@ This is a test. Addition to first iline
 Second line
 
 Ready for release
+
+A bug fix in QA
